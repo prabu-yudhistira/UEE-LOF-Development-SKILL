@@ -1,2 +1,2 @@
 # UEE-LOF-Development-SKILL
-This skill encodes a proven research pattern for developing liquid organic fertilizer (LOF) papers built on the Sequential Ultrasonic-Enzyme-Extaction (UEE) system.
+This skill encodes a proven research pattern for developing liquid organic fertilizer (LOF) papers built on the Sequential Ultrasonic-Enzyme-Extraction (UEE) system.
